@@ -11,6 +11,10 @@ Mask of car:
 
 ![image](https://user-images.githubusercontent.com/43620431/54560674-1c3e5780-4980-11e9-91ad-315def3b877e.png)
 
+# Methodology
+I utilized the U-net architecture model, which is a convolutional sequential model:
+
+![image](https://user-images.githubusercontent.com/43620431/54560894-9a026300-4980-11e9-9e4d-389482163f96.png)
 
 # Analysis
 
